@@ -14,5 +14,5 @@ You can download the files from there, but it's better to clone the repository t
 ## Submission
   1. Ensure you've passed all the unit tests in the notebook.
   2. Ensure you pass all points on the rubric.
-  3. When you're done with the project, please save the notebook as an HTML file. You can do this by going to the File menu in the notebook      and choosing "Download as" > HTML. Ensure you submit both the Jupyter Notebook and its HTML version together.
+  3. When you're done with the project, please save the notebook as an HTML __file__. You can do this by going to the File menu in the notebook      and choosing "Download as" > HTML. __Ensure you submit both the Jupyter Notebook and its HTML version together__.
   4. Follow the rest of the file submission instructions after clicking ```Submit``` on the last page of this lesson.

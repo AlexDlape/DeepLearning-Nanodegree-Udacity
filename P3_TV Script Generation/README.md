@@ -25,5 +25,5 @@ You may also choose to complete your project using the provided, in-classroom pr
 
 After completing this project, try applying what you learned to one of these problems.
 
-    - Generate your own Bach music using like [DeepBach](https://arxiv.org/pdf/1612.01010.pdf).
-    - Predict seizures in intracranial EEG recordings on [__Kaggle__](https://www.kaggle.com/c/seizure-prediction).
+    1. Generate your own Bach music using like [__DeepBach__](https://arxiv.org/pdf/1612.01010.pdf).
+    2. Predict seizures in intracranial EEG recordings on [__Kaggle__](https://www.kaggle.com/c/seizure-prediction).

@@ -15,11 +15,11 @@ You may also choose to complete your project using the provided, in-classroom pr
 
 ## Submission
 
-    1. Ensure you've passed all the unit tests in the notebook.
-    2. Ensure you pass all points [__on the rubric__](https://review.udacity.com/#!/rubrics/2260/view).
-    3. When you're done with the project, please save the notebook as both an .ipynb file and as an HTML file. You can do this by going to        the File menu in the notebook and choosing "Download as" > HTML. Ensure you submit both the Jupyter Notebook and it's HTML version          together.
-    4. Package the "dlnd_tv_script_generation.ipynb", "helper.py", "problem_unittests.py", and the HTML file into a zip archive, or push          the files from your GitHub repo.
-    5. Hit Submit Project to submit your final zip file!
+ 1. Ensure you've passed all the unit tests in the notebook.
+ 2. Ensure you pass all points [__on the rubric__](https://review.udacity.com/#!/rubrics/2260/view).
+ 3. When you're done with the project, please save the notebook as both an .ipynb file and as an HTML file. You can do this by going to        the File menu in the notebook and choosing "Download as" > HTML. Ensure you submit both the Jupyter Notebook and it's HTML version          together.
+ 4. Package the "dlnd_tv_script_generation.ipynb", "helper.py", "problem_unittests.py", and the HTML file into a zip archive, or push          the files from your GitHub repo.
+ 5. Hit Submit Project to submit your final zip file!
     
 ## Advanced Projects
 
